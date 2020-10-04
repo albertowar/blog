@@ -1,10 +1,3 @@
----
-title: Lessons learnt from my first mob programming session
-published: true
-description: I will walk you through my journey introducing the idea of mob programming at work
-tags: #mobprogramming #pairprogramming #productivity #teamwork
-cover_image: https://cdn.pixabay.com/photo/2017/07/25/22/54/office-2539844_960_720.jpg
----
 A few months ago, the YouTube recommender algorithm baited me with this presentation about Mob programming from Woody Zuill. 
 
 [![Mob Programming](https://img.youtube.com/vi/28S4CVkYhWA/0.jpg)](https://www.youtube.com/watch?v=28S4CVkYhWA) 
